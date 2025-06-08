@@ -16,6 +16,7 @@ huggingface-hub==0.32.3
 langchain==0.3.25
 langchain-huggingface
 langchain-groq
+langchain-pinecone
 langchain-openai==0.3.18
 streamlit==1.45.1
 pytest==8.3.5
