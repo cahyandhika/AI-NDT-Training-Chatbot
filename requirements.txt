@@ -1,0 +1,48 @@
+# GenAI Frameworks
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-ollama
+langchain-groq
+langchain-google-genai
+langchain-huggingface
+langgraph
+beautifulsoup4
+pygments
+pypdf
+streamlit
+
+# VDB
+langchain-pinecone
+langchain-elasticsearch
+elasticsearch
+faiss-cpu
+langchain-milvus
+pymilvus
+
+# Huggingface
+transformers
+datasets
+tokenizers
+torch
+accelerate
+sentence-transformers
+
+# Dari FastAPI
+
+langchain
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_experimental
+huggingface_hub<1.0.0
+sentence-transformers
+uvicorn
+fastapi
+langserve
+pydantic
+cryptography
+torchvision
